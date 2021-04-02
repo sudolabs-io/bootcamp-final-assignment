@@ -1,0 +1,25 @@
+{
+  "boards": [
+    {
+      "name": "Sudo Academy",
+      "id": 1
+    }
+  ],
+  "taskGroups": [
+    {
+      "name": "Getting Started",
+      "boardId": 1,
+      "taskIds": [1],
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "name": "Install Workshop Code",
+      "content": "git clone and npm install",
+      "boardId": 1,
+      "date": "2021-02-11",
+      "id": 2
+    }
+  ]
+}
