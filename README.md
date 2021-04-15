@@ -56,7 +56,7 @@ In this section, you'll find relevant project information and a getting started 
 ### Environment Setup
 
 1. Clone the repository
-2. Make a copy of [db/data.json.dist](db/data.json.dist) and rename it to `db/data.json`
+2. Make a copy of [data/database.json.dist](data/database.json.dist) and rename it to `data/database.json`
 3. ```npm install```
 4. ```npm run start:server```
 5. ```npm run start:client```

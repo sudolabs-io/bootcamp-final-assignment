@@ -6,7 +6,7 @@
     "build": "vite build",
     "serve": "vite preview",
     "lint": "eslint --fix --ignore-path .gitignore \"**/*.{js,jsx}\"",
-    "start:server": "json-server --watch db/data.json --port 3004",
+    "start:server": "json-server --watch data/database.json --port 3004",
     "start:client": "npm run dev"
   },
   "dependencies": {
