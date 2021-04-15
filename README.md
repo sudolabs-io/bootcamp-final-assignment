@@ -49,7 +49,11 @@ to have:
 - example of your own idea 1
 - example of your own idea 2
 
-## Project Setup
+## Project Overview
+
+In this section, you'll find relevant project information and a getting started guide.
+
+### Environment Setup
 
 1. Clone the repository
 2. Make a copy of [db/data.json.dist](db/data.json.dist) and rename it to `db/data.json`
