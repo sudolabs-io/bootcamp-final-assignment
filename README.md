@@ -56,3 +56,4 @@ to have:
 3. ```npm install```
 4. ```npm run start:server```
 5. ```npm run start:client```
+6. Head out to the Trello board, pick a task and start working on it, then rinse and repeat.
