@@ -61,3 +61,11 @@ In this section, you'll find relevant project information and a getting started 
 4. ```npm run start:server```
 5. ```npm run start:client```
 6. Head out to the Trello board, pick a task and start working on it, then rinse and repeat.
+
+## Documentation
+
+- <https://github.com/typicode/json-server#table-of-contents>
+- <https://vitejs.dev/>
+- <https://chakra-ui.com/docs/getting-started>
+- <https://react-icons.github.io/react-icons/>
+- <https://reactrouter.com/web/guides/quick-start>
