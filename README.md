@@ -76,5 +76,3 @@ In this section, you'll find relevant project information and a getting started 
 ### Data Store
 
 ### Streamlined Workflow
-
-
