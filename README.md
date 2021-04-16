@@ -15,8 +15,8 @@ tool similar to [Trello](https://trello.com/en). If you haven't heard about Trel
 until now, now would be a good time to go check it out.
 
 Worry not, you don't have to build a fully-featured clone of Trello. While there are
-a few functional and non-functional requirements you will have to meet but we'd like
-to encourage you to make it your own unique creation in the first place.
+a few functional requirements you will have to meet but we'd like to encourage you to
+make it your own unique creation in the first place.
 
 Now, without further ado, go ahead and [set up a new Trello account for free](https://trello.com/signup).
 Other than getting some inspiration, you'll also be using Trello to manage your project
@@ -29,16 +29,17 @@ of digital project management.
 These are non-negotiable project requirements that you HAVE TO meet to consider your
 project shippable:
 
-- functional requirement 1
-- more
+- Creating new boards
+- Editing boards
+- Deleting boards
+- Creating new lists within a board
+- Editing lists
+- Delete a list
+- Creating new cards within a list
+- Edit a card
+- Archiving cards
+- Drag and drop cards between lists
 
-### Non-functional Requirements
-
-These are non-negotiable project requirements that you HAVE TO meet to consider your
-project shippable:
-
-- non-functional requirement 1
-- more
 
 ### Bring Your Own Idea™️
 
@@ -46,8 +47,12 @@ As stated earlier, you're more than encouraged to come up with your own enhancem
 and features. Here are a few examples for additional features we thought are nice
 to have:
 
-- code-splitting
-- more
+- Copy
+- Move to another board
+- Share
+- Stats
+- Users
+- Code-splitting
 
 ## Project Overview
 
@@ -76,5 +81,3 @@ In this section, you'll find relevant project information and a getting started 
 ### Data Store
 
 ### Streamlined Workflow
-
-
