@@ -30,7 +30,7 @@ These are non-negotiable project requirements that you HAVE TO meet to consider 
 project shippable:
 
 - functional requirement 1
-- functional requirement 2
+- more
 
 ### Non-functional Requirements
 
@@ -38,7 +38,7 @@ These are non-negotiable project requirements that you HAVE TO meet to consider 
 project shippable:
 
 - non-functional requirement 1
-- non-functional requirement 2
+- more
 
 ### Bring Your Own Idea™️
 
@@ -46,8 +46,8 @@ As stated earlier, you're more than encouraged to come up with your own enhancem
 and features. Here are a few examples for additional features we thought are nice
 to have:
 
-- example of your own idea 1
-- example of your own idea 2
+- code-splitting
+- more
 
 ## Project Overview
 
@@ -61,6 +61,7 @@ In this section, you'll find relevant project information and a getting started 
 4. ```npm run start:server```
 5. ```npm run start:client```
 6. Head out to the Trello board, pick a task and start working on it, then rinse and repeat.
+7. ```code reboard``` and install the recommended extension
 
 ## Documentation
 
@@ -69,3 +70,11 @@ In this section, you'll find relevant project information and a getting started 
 - <https://chakra-ui.com/docs/getting-started>
 - <https://react-icons.github.io/react-icons/>
 - <https://reactrouter.com/web/guides/quick-start>
+
+### Debugging
+
+### Data Store
+
+### Streamlined Workflow
+
+
