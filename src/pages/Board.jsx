@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 import { useParams } from 'react-router-dom'
 import { Box, Center } from '@chakra-ui/react'
 // import { getBoard } from '../utils/api'

@@ -20,7 +20,7 @@
     "scope": "javascriptreact",
 		"prefix": "recomp",
 		"body": [
-      "import React from 'react'",
+      "import * as React from 'react'",
       "import PropTypes from 'prop-types'",
       "",
       "const $1 = ({ children }) => {",

@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 import { Box, HStack, Grid, useDisclosure } from '@chakra-ui/react'
 import { MdDashboard } from 'react-icons/md'
 import { HiViewBoards } from 'react-icons/hi'

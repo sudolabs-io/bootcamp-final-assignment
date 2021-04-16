@@ -1,4 +1,4 @@
-import React from 'react'
+import * as React from 'react'
 import { Box, Center } from '@chakra-ui/react'
 
 const Boards = () => {
