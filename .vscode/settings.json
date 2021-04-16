@@ -5,8 +5,6 @@
   },
 
   "files.defaultLanguage": "javascriptreact",
-  "files.autoSave": "afterDelay",
-  "files.autoSaveDelay": 1000,
   "files.eol": "\n",
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
