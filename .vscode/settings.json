@@ -5,6 +5,7 @@
   },
 
   "files.defaultLanguage": "javascriptreact",
+  "files.eol": "\n",
   "files.exclude": {
     "**/.git": true,
     "**/.DS_Store": true,
