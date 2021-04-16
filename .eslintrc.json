@@ -10,6 +10,10 @@
   ],
   "rules": {
     "prettier/prettier": "error",
+    "arrow-body-style": "off",
+    "no-console": ["warn", { "allow": ["warn", "error"] }],
+    "no-unused-vars": ["error", { "vars": "all", "varsIgnorePattern": "^_", "args": "after-used", "argsIgnorePattern": "^_", "ignoreRestSiblings": false }],
+    "import/prefer-default-export": "off",
     "import/no-extraneous-dependencies": [
       "error",
       {
@@ -17,9 +21,7 @@
       }
     ],
     "react/no-unescaped-entities": "off",
-    "import/prefer-default-export": "off",
     "react/require-default-props": "off",
-    "arrow-body-style": "off",
     "react/jsx-props-no-spreading": "off"
   }
 }
