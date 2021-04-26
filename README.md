@@ -10,8 +10,8 @@ your wheels of creativity spinning.
 
 ## Task Description
 
-Given the basic application scaffolding, your goal is to build a simple task management
-tool similar to [Trello](https://trello.com/en). If you haven't heard about Trello up
+Given the basic application scaffolding, **your goal is to build a simple task management
+tool similar to [Trello](https://trello.com/en)**. If you haven't heard about Trello up
 until now, now would be a good time to go check it out.
 
 Worry not, you don't have to build a fully-featured clone of Trello. While there are
