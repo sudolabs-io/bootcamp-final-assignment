@@ -11,7 +11,7 @@ server.use(express.static('dist'))
 server.use(middlewares)
 server.use('/api', router)
 server.get('*', (req, res) => {
-  res.sendfile(path.resolve(__dirname, 'dist/index.html'))
+  res.sendFile(path.resolve(__dirname, 'dist/index.html'))
 })
 
 server.listen(port)
