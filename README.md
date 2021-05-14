@@ -76,8 +76,12 @@ In this section, you'll find relevant project information and a getting started 
 - <https://react-icons.github.io/react-icons/>
 - <https://reactrouter.com/web/guides/quick-start>
 
-### Debugging
+## Known Issues
 
-### Data Store
+### The site is not reloading on change to source files
 
-### Streamlined Workflow
+Open [vite.config.js](vite.config.js) and uncomment the relevant section that enables polling.
+
+### Esbuild is failing to build the project on Windows
+
+You'll need to run `node node_modules/esbuild/install.js` in the root of your project.
