@@ -72,6 +72,9 @@ In this section, you'll find relevant project information and a getting started 
 
 You can deploy this repository to Heroku by clicking the button below.
 
+> Please note this button won't work from within a private repository.
+> Thus make sure your repo is public before clicking the button.
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Documentation
