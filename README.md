@@ -40,7 +40,6 @@ project shippable:
 - Archiving cards
 - Drag and drop cards between lists
 
-
 ### Bring Your Own Idea™️
 
 As stated earlier, you're more than encouraged to come up with your own enhancements
