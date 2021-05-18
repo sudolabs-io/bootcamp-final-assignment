@@ -73,7 +73,7 @@ In this section, you'll find relevant project information and a getting started 
 - <https://vitejs.dev/>
 - <https://chakra-ui.com/docs/getting-started>
 - <https://react-icons.github.io/react-icons/>
-- <https://reactrouter.com/web/guides/quick-start>
+- <https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md>
 
 ### Debugging
 
