@@ -60,13 +60,21 @@ In this section, you'll find relevant project information and a getting started 
 
 ### Environment Setup
 
-1. Clone the repository
-2. Make a copy of [data/database.json.dist](data/database.json.dist) and rename it to `data/database.json`
-3. ```npm install```
-4. ```npm run start:server```
-5. ```npm run start:client```
-6. Head out to the Trello board, pick a task and start working on it, then rinse and repeat.
-7. ```code reboard``` and install the recommended extension
+1. Fork the repository
+2. Clone the repository
+
+   ```sh
+   git clone https://github.com/USERNAME/REPONAME.git
+   # or
+   git clone git@github.com:USERNAME/REPONAME.git
+   ```
+
+3. Make a copy of [data/database.json.dist](data/database.json.dist) and rename it to `data/database.json`
+4. ```npm install```
+5. ```npm run start:server```
+6. ```npm run start:client```
+7. Head out to the Trello board, pick a task and start working on it, then rinse and repeat.
+8. ```code REPONAME``` and install the recommended extension
 
 ## Deployment
 
