@@ -65,8 +65,13 @@ In this section, you'll find relevant project information and a getting started 
 
    ```sh
    git clone https://github.com/USERNAME/REPONAME.git
-   # or
+   # or use ssh
    git clone git@github.com:USERNAME/REPONAME.git
+
+   # optionally add this template as an upstream remote
+   git remote add upstream https://github.com/sudolabs-io/bootcamp-final-assignment.git
+   # or use ssh
+   git remote add upstream git@github.com:sudolabs-io/bootcamp-final-assignment.git
    ```
 
 3. Make a copy of [data/database.json.dist](data/database.json.dist) and rename it to `data/database.json`
