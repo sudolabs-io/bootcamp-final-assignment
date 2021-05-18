@@ -60,7 +60,7 @@ In this section, you'll find relevant project information and a getting started 
 
 ### Environment Setup
 
-1. Fork the repository
+1. Fork the repository using the "Use this template" button
 2. Clone the repository
 
    ```sh
