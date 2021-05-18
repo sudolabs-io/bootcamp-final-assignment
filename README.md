@@ -40,7 +40,6 @@ project shippable:
 - Archiving cards
 - Drag and drop cards between lists
 
-
 ### Bring Your Own Idea™️
 
 As stated earlier, you're more than encouraged to come up with your own enhancements
@@ -97,7 +96,7 @@ You can deploy this repository to Heroku by clicking the button below.
 - <https://vitejs.dev/>
 - <https://chakra-ui.com/docs/getting-started>
 - <https://react-icons.github.io/react-icons/>
-- <https://reactrouter.com/web/guides/quick-start>
+- <https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md>
 
 ## Known Issues
 
