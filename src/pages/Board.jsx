@@ -8,7 +8,7 @@ const Board = () => {
   // const [status, setStatus] = React.useState('loading')
   // const [board, setBoard] = React.useState({})
 
-  // useEffect(() => {
+  // React.useEffect(() => {
   //   try {
   //     const fetchData = async () => {
   //       const data = await getBoard(id)

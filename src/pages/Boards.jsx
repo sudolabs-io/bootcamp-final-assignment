@@ -6,7 +6,7 @@ const Boards = () => {
   // const [status, setStatus] = React.useState('loading')
   // const [boards, setBoards] = React.useState([])
 
-  // useEffect(() => {
+  // React.useEffect(() => {
   //   try {
   //     const fetchData = async () => {
   //       const data = await getBoards()
