@@ -84,9 +84,6 @@ export async function createTask(boardId, taskGroupId, data) {
   const defaultTaskData = {
     name: '',
     content: '',
-    minutes: 0,
-    completedMinutes: 0,
-    assignedTo: [],
     ...data,
     boardId,
     date: format(Date.now(), 'yyyy-MM-dd'),
